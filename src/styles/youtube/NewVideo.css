@@ -1,0 +1,23 @@
+.video-container{
+    padding: 3px;
+    width: 400px;
+    margin-right: 10px;
+    /* border: 2px solid black; */
+
+}
+.thumbnail{
+    height: 300px;
+    width: 100px;
+}
+
+.thumbnail>img{
+    border-radius: 10px;
+}
+
+.video-title, .channel-name, .view-count{
+    margin: 0;
+}
+
+.video-info{
+    margin: 30px;
+}

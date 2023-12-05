@@ -1,0 +1,29 @@
+.sign-in{
+    color:azure;
+    background-color: transparent;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+.search-box{
+    background-color: black;
+    height: 40px;
+}
+
+#three-dot{
+    margin-right: 7px;
+}
+.search{
+    /* border: 1px solid red; */
+    background-color: rgb(44, 43, 43);
+    border-radius: 20px;
+    
+}
+#search{
+   margin: 10px;
+}
+
+.microphone{
+    /* background-color: rgb(44, 43, 43);  */
+    /* margin: 10px; */
+   
+}

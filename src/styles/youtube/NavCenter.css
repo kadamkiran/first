@@ -1,0 +1,18 @@
+.nav-center{
+    display: flex;
+}
+.search-box{
+
+background-color: transparent;
+padding: 5px;
+color: white;
+width: 455px;
+height: 35px;
+
+}
+
+.microphone{
+    margin: 4px;
+    margin-left: 16px;
+    
+}
